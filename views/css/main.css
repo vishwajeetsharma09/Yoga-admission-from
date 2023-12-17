@@ -1,0 +1,38 @@
+/* Main css file for handling index.ejs file where main frontend is located */
+body{
+	margin :1.5rem;
+	padding :0px;
+	text-align: center ;
+	background-color: #dddddd;
+	
+}
+.bg-image {
+	background-image: url('./image2.jpg');
+	background-size: cover;
+	background-position: center;
+	color: rgb(25, 25, 25); /* Set text color to be visible on the background */
+}
+p{
+	margin-top: 20px;
+	font-size: 30px;
+}
+input{
+	text-align: center;
+}
+.mssg{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+
+label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+select {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
