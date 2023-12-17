@@ -13,25 +13,6 @@ This is a Yoga Class Registration & Login systems app done with Node.js Framewor
 
 ### •Registration Form:
 
-Allows the user to register their account by filling their Email, Username, Password.
-
-![image](https://user-images.githubusercontent.com/55663137/207046894-84eba311-9132-4ac8-907f-1dec464579de.png)
-
-### •Login Form:
-
-If the user has been registered on the app, can login by passing the credentials.
-
-![image](https://user-images.githubusercontent.com/55663137/207046989-836c5f44-9eaf-40e4-9b55-6dbcbcec414c.png)
-
-### •User's Profile:
-
-After the user logged in, a simple profile with the user's username and password and batch time and paymeny info <br>displayed with a session Logout button.
-
-![image](https://user-images.githubusercontent.com/55663137/207047153-e15751ee-5103-433d-9cc4-8e2154de9a39.png)
-
-### ER Diagram
-
-The ER diagram for the given system at the moment is:
 
 ### DataBase:
 
